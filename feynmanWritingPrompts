@@ -1,0 +1,12 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* Variables
+	So there are two parts to a variable, the variable itself and the value of the variable. The variable is like the bottle for the value. The value is the numbers and characters and strings. You can even put mathematical expressions into the variable to store it. 
+	* Strings
+	So strings are a set of letters and numbers that we think are letters.
+	* Functions (arguments, `return`)
+	So functions are factories that take in arguments, transforms the arguements into an output and returns it back to the sender.
+	* `if` statements
+	So if statements is something we use to measure variables and depending on what we measure, output something for that measurement. So if your a good boy, you get a cookie, else you go to the corner.
+	* Boolean values (`true`, `false`)
+	Boolean values make variables true or false. So if your a good boy we can make a variable good and say it's true and if you're not then say its false.
